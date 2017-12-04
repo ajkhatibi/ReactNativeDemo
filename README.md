@@ -1,6 +1,6 @@
 # ReactNativeDemo
 
-https://user-images.githubusercontent.com/17955378/33407776-c259d4a6-d527-11e7-8e8f-ddde22aaa2c0.gif
+![projectdemovid - converted with clipchamp](https://user-images.githubusercontent.com/17955378/33407776-c259d4a6-d527-11e7-8e8f-ddde22aaa2c0.gif)
 
 This project demostrates best practices using react native. In this project there are a few important aspects:
 1. It ultilizes reusable components. Check Button.js for instance.
